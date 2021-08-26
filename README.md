@@ -1,9 +1,14 @@
 ## Olá! Eu sou o <a href="http://wesleygsilva.github.io" target="_blank">Wesley Gomes</a>
  <div>
   <a href="https://github.com/wesleygsilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleygsilva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleygsilva&layout=compact&langs_count=10&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleygsilva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide=prs&locale=pt-br"/>
+   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleygsilva&layout=compact&langs_count=10&theme=highcontrast&card_width=230&custom_title='Linguagens mais utilizadas'"/>
+
 </div>
+ 
+ ##
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Wesley-Delphi" height="40" width="40" src="https://img.icons8.com/officel/40/000000/delphi-ide.png" style="text-decoration: none">
   <img align="center" alt="Wesley-Mysql" height="40" width="40" src="https://img.icons8.com/color/40/000000/mysql-logo.png">
