@@ -20,8 +20,8 @@
  
  
  <h4> Databases </h4>
-  <img align="center" alt="Wesley-Mysql" height="40" width="40" src="https://img.icons8.com/color/40/000000/mysql-logo.png">
-  <img align="center" alt="Wesley-SQLServer" height="40" width="40" src="https://img.icons8.com/color/40/000000/microsoft-sql-server.png">
+  <img align="center" alt="Wesley-Mysql" title="Mysql" height="40" width="40" src="https://img.icons8.com/color/40/000000/mysql-logo.png">
+  <img align="center" alt="Wesley-SQLServer" title="Sql Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 </div>
   
   ##
