@@ -1,9 +1,9 @@
 ## Olá! Sou o <a href="https://www.wesleygomes.com.br" target="_blank">Wesley Gomes</a>
  <div>
   <a href="https://github.com/wesleygsilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleygsilva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide=prs&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleygsilva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide=prs&locale=en"/>
    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleygsilva&layout=compact&langs_count=10&theme=highcontrast&card_width=230&custom_title='Linguagens mais utilizadas'&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleygsilva&layout=compact&langs_count=10&theme=highcontrast&card_width=230&custom_title='Most Used Languages'&count_private=true"/>
 
 </div>
  
