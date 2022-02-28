@@ -1,4 +1,4 @@
-## Olá! Eu sou o <a href="https://www.wesleygomes.com.br" target="_blank">Wesley Gomes</a>
+## Olá! Sou o <a href="https://www.wesleygomes.com.br" target="_blank">Wesley Gomes</a>
  <div>
   <a href="https://github.com/wesleygsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleygsilva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide=prs&locale=pt-br"/>
