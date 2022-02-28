@@ -1,10 +1,11 @@
 ## Hello! I'm <a href="http://www.wesleygomes.com.br" target="_blank">Wesley Gomes</a>
+ <h4>Estudante front end</h4>
+
  <div>
   <a href="https://github.com/wesleygsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleygsilva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=prs&locale=en"/>
    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleygsilva&layout=compact&langs_count=10&theme=github_dark&card_width=230&custom_title='Most Used Languages'&count_private=true"/>
-
 </div>
  
  ##
