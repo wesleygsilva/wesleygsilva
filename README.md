@@ -8,7 +8,7 @@
 </div>
  
  ##
- <h4> Linguagens Favoritas </h4> 
+ <h4> Favorite Languages </h4> 
   <div style="display: inline_block">
   <img align="center" alt="Wesley-Delphi" title="Delphi" height="40" width="40" src="https://img.icons8.com/officel/40/000000/delphi-ide.png" style="text-decoration: none">
   <img align="center" alt="Wesley-HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,7 +19,7 @@
   <img align="center" alt="Wesley-React" title="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  
  
- <h4> Bancos de dados </h4>
+ <h4> Databases </h4>
   <img align="center" alt="Wesley-Mysql" height="40" width="40" src="https://img.icons8.com/color/40/000000/mysql-logo.png">
   <img align="center" alt="Wesley-SQLServer" height="40" width="40" src="https://img.icons8.com/color/40/000000/microsoft-sql-server.png">
 </div>
