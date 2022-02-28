@@ -10,7 +10,7 @@
  ##
  <h4> Linguagens Favoritas </h4> 
   <div style="display: inline_block">
-  <img align="center" alt="Wesley-Delphi" height="40" width="40" src="https://img.icons8.com/officel/40/000000/delphi-ide.png" style="text-decoration: none">
+  <img align="center" alt="Wesley-Delphi" title="Delphi" height="40" width="40" src="https://img.icons8.com/officel/40/000000/delphi-ide.png" style="text-decoration: none">
   <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wesley-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
