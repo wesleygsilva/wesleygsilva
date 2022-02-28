@@ -27,10 +27,10 @@
   ##
  
 <div> 
-  <a href="https://www.facebook.com/weesleygomes" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-FF0000?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/_gomes.wesley/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wesley-gomes-69175411b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.linkedin.com/in/wesley-gomes-69175411b/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/wesley-gomes-69175411b/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/_gomes.wesley/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/wesley-gomes-69175411b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
  
   ![Snake animation](https://github.com/wesleygsilva/wesleygsilva/blob/output/github-contribution-grid-snake.svg)
  
